@@ -1,0 +1,33 @@
+* {
+margin: 10px;
+}
+header{
+    padding: 20px;
+    margin: 15px;
+    background-color: rgb(99, 93, 93);
+    color: rgb(218, 211, 202);
+    font-size: x-large;
+    text-align: center;
+    
+    
+    
+}
+main{
+    text-align: center;
+}
+main#parag{
+    float: left;
+    color: #f2f2f2;
+
+}
+footer{
+    padding: 20px;
+    margin: 15px;
+    background-color: rgb(99, 93, 93);
+    text-align: center;
+}
+button{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 15px 10px;
+}
